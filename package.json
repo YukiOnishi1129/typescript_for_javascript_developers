@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/YukiOnishi1129/typescript_for_javascropt_developers/issues"
   },
-  "homepage": "https://github.com/YukiOnishi1129/typescript_for_javascropt_developers#readme"
+  "homepage": "https://github.com/YukiOnishi1129/typescript_for_javascropt_developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
